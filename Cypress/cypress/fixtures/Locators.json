@@ -1,0 +1,19 @@
+{    "Login" : {
+        "Email" : "#email",
+        "Password" : "#userPassword",
+        "Login" : "button[type='.btn']"
+     
+    }, 
+    "Register" : {
+        "FirstName" : "#first-name",
+        "LastName" : "#last-name",
+        "Email" : "#email",
+        "Password" : "#password",
+        "ConfirmedPassword" : "#password-confirmation",
+        "Checkbox" : "input[type='checkbox']",
+        "Register" : "button[type='submit']"
+    }
+
+
+
+}

@@ -1,0 +1,20 @@
+{
+  "name": "framework",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "framework"
+  ],
+  "author": "nikolina",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.2.0",
+    "faker": "^5.5.3"
+  }
+}
